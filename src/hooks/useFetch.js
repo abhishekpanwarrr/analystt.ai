@@ -16,7 +16,6 @@ export const useFetch = () => {
     getPersonData();
   }, []);
 
-  console.log("🚀 ~ file: useFetch.js ~ line 21 ~ useFetch ~ data", data);
   return { loading, data };
 };
 

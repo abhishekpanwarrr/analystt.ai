@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import React, { useState, memo } from "react";
 
 const Person = ({ person }) => {
+  console.log("person rendered");
   const [show, setShow] = useState(false);
 
   const capitalizeFirst = (str) => {
@@ -83,5 +84,6 @@ const Person = ({ person }) => {
     </div>
   );
 };
+const MemoPerson = memo(Person);
 
-export default Person;
+export default MemoPerson;
