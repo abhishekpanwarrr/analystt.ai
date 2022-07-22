@@ -1,70 +1,84 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Analystt.ai Assignment
 
-## Available Scripts
+This app shows data of all users.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demo
+https://analystt-ai.vercel.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on creation section
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🧠 I'm currently learning typescript
 
-### `npm run build`
+👯‍♀️ I'm looking to collaborate on react and react native projects any one who is interested can connect on my social links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+💬 Ask me about React Js and React Native
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📫 You can react me on my webiste or with instagram and linkedin
+:- https://abhishekpanwar.netlify.app
+:- https://instagram.com/abhishekpanwarrr
+:- https://linkedin.com/in/abhishekpanwarrr
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⚡️ Fun fact is that i love to write code 😊💕
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhishekpanwar.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpanwarrr/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install crypto-app-react with npm
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  npm install crypto-app-react
+  cd crypto-app-react
+  npm start to start the expo project in any device
+```
+## Screenshots
+  ![readmefile](https://user-images.githubusercontent.com/40629087/180385895-ec11ed3e-d057-4683-a4ee-bd4770783143.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Running Tests
 
-### Analyzing the Bundle Size
+To run tests, run the following command
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+    Test are not ready yet for this project
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Features
 
-### Advanced Configuration
+- Light/dark mode toggle
+- Live data preview of all users
+- Fully responsive
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Tech Stack
 
-### `npm run build` fails to minify
+**Client:** React Js and TailwindCSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Used By
+
+This project can be  used by anyone who have permission from analystt.ai team.
+
+
+## Authors
+
+- [@abhishekpanwarrr](https://www.github.com/abhishekpanwarrr)
+
+
+## Support
+
+For support, email abhishekpanwar1718@gmail.com or join me on linkedin.
+
