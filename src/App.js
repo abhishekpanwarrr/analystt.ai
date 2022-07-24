@@ -5,7 +5,6 @@ import Person from "./components/Person";
 import { BsMoon, BsSun } from "react-icons/bs";
 
 const App = () => {
-  console.log("App component Rendered");
   const { loading, data } = useFetch();
   const [people, setPeople] = useState([]);
   const [page, setPage] = useState(0);

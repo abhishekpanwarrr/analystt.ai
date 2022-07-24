@@ -1,7 +1,6 @@
 import React, { useState, memo } from "react";
 
 const Person = ({ person }) => {
-  console.log("person rendered");
   const [show, setShow] = useState(false);
 
   const capitalizeFirst = (str) => {

@@ -5,15 +5,16 @@ export const useFetch = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
 
-  const getPersonData = async () => {
-    const response = await fetch(PEOPLE_API_URL);
-    const data = await response.json();
-    setData(paginationFunction(data.results));
-    setLoading(false);
-  };
-
   useEffect(() => {
-    getPersonData();
+    const getPersonData = async () => {
+      const response = await fetch(PEOPLE_API_URL);
+      const data = await response.json();
+      setData(paginationFunction(data.results));
+      setLoading(false);
+    };
+    return () => {
+      getPersonData();
+    };
   }, []);
 
   return { loading, data };
