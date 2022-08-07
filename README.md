@@ -1,7 +1,7 @@
 
 # Analystt.ai Assignment
 
-This app shows data of all users.
+This app shows data of all users. Use as you want.
 
 
 
