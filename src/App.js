@@ -43,7 +43,7 @@ const App = () => {
   };
 
   return (
-    <div className="w-full h-full dark:bg-[#27262b] dark:text-[#f4f4f4] m-0 p-0">
+    <div className="w-full h-full dark:bg-[#27262b] dark:text-[#f4f4f4] m-0 p-0 continer">
       <div className="max-w-6xl mx-auto font-montserrat h-full ">
         <div className="py-1 mt-5 mx-4 dark:shadow-blue-600 shadow-sm flex justify-between items-center px-12">
           <h1 className="text-center text-xl md:text-2xl font-bold text-blue-500 uppercase">

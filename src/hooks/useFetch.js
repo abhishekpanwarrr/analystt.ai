@@ -9,8 +9,10 @@ export const useFetch = () => {
     const getPersonData = async () => {
       const response = await fetch(PEOPLE_API_URL);
       const data = await response.json();
-      setData(paginationFunction(data.results));
-      setLoading(false);
+      if (data.results.length > 0) {
+        setData(paginationFunction(data.results));
+        setLoading(false);
+      }
     };
     return () => {
       getPersonData();
